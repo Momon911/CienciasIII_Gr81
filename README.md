@@ -1,4 +1,4 @@
 # CienciasIII_Gr81
-# David Gómez
+# David Gómez 201410202139
 # Jesion Rincon
-# Lucho 
+# Bryan Alejandro Luis Torres
