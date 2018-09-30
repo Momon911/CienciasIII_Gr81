@@ -1,0 +1,1 @@
+si coge-zumbador y frente-libre entonces apagate repetir 3 veces
